@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TempretureConvertor</string>
+    <string name="simple_tempreture_convertor">Simple Tempreture Convertor</string>
+    <string name="convert_to_fahrenheit">Convert To Fahrenheit</string>
+    <string name="convert_to_celcius">Convert To Celcius</string>
+    <string name="type_in_a_number_here_and_hit_convert">Type in a number here and hit convert</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="enter_a_number">Enter a number</string>
+</resources>
